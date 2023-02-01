@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/abhishek.git/static/css/main.4e73f0f2.chunk.css",
+    "main.js": "/abhishek.git/static/js/main.a5cf9f69.chunk.js",
+    "main.js.map": "/abhishek.git/static/js/main.a5cf9f69.chunk.js.map",
+    "runtime-main.js": "/abhishek.git/static/js/runtime-main.b92a6af8.js",
+    "runtime-main.js.map": "/abhishek.git/static/js/runtime-main.b92a6af8.js.map",
+    "static/js/2.75665b7d.chunk.js": "/abhishek.git/static/js/2.75665b7d.chunk.js",
+    "static/js/2.75665b7d.chunk.js.map": "/abhishek.git/static/js/2.75665b7d.chunk.js.map",
+    "index.html": "/abhishek.git/index.html",
+    "precache-manifest.997aed24d6f7eac5ec6dd3d21406b644.js": "/abhishek.git/precache-manifest.997aed24d6f7eac5ec6dd3d21406b644.js",
+    "service-worker.js": "/abhishek.git/service-worker.js",
+    "static/css/main.4e73f0f2.chunk.css.map": "/abhishek.git/static/css/main.4e73f0f2.chunk.css.map",
+    "static/js/2.75665b7d.chunk.js.LICENSE.txt": "/abhishek.git/static/js/2.75665b7d.chunk.js.LICENSE.txt",
+    "static/media/companies.png": "/abhishek.git/static/media/companies.31258aa9.png",
+    "static/media/company-logo.png": "/abhishek.git/static/media/company-logo.8f0049ea.png",
+    "static/media/style.scss": "/abhishek.git/static/media/illustration-section-02.63d0555d.svg",
+    "static/media/feature-tile-icon-01.svg": "/abhishek.git/static/media/feature-tile-icon-01.0f9928d7.svg",
+    "static/media/feature-tile-icon-02.svg": "/abhishek.git/static/media/feature-tile-icon-02.bd39f304.svg",
+    "static/media/feature-tile-icon-03.svg": "/abhishek.git/static/media/feature-tile-icon-03.66f37ba5.svg",
+    "static/media/feature-tile-icon-04.svg": "/abhishek.git/static/media/feature-tile-icon-04.836acd10.svg",
+    "static/media/feature-tile-icon-05.svg": "/abhishek.git/static/media/feature-tile-icon-05.fa9ba00b.svg",
+    "static/media/feature-tile-icon-06.svg": "/abhishek.git/static/media/feature-tile-icon-06.6a177696.svg",
+    "static/media/invest1.png": "/abhishek.git/static/media/invest1.97bc98ad.png",
+    "static/media/invest3.png": "/abhishek.git/static/media/invest3.16c308fc.png",
+    "static/media/invest4.png": "/abhishek.git/static/media/invest4.1e131084.png",
+    "static/media/video-placeholder.jpg": "/abhishek.git/static/media/video-placeholder.a622fc5d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b92a6af8.js",
+    "static/js/2.75665b7d.chunk.js",
+    "static/css/main.4e73f0f2.chunk.css",
+    "static/js/main.a5cf9f69.chunk.js"
+  ]
+}
