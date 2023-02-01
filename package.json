@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@ds-awesome/datastructure": "^0.0.1",
     "classnames": "^2.2.6",
     "lodash": "^4.17.15",
     "react": "^16.13.1",
@@ -20,7 +21,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "export": "next export"
   },
   "eslintConfig": {
     "extends": "react-app"

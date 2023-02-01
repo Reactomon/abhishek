@@ -38,6 +38,11 @@
 			}
 		}
 	}
+
+	.mfunds {
+		display: flex;
+		justify-content: space-around;
+	}
 }
 
 @include media( '<=medium' ) {

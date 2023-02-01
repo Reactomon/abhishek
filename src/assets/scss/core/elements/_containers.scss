@@ -2,7 +2,7 @@
 .container-sm,
 .container-xs {
 	width: 100%;
-	margin: 0 auto;
+	margin: 0 20%;
 	padding-left: $container--padding__mobile;
 	padding-right: $container--padding__mobile;
 
@@ -12,8 +12,16 @@
 	}
 }
 
+.light-bg {
+	color: 'white'
+}
+
+.header-container {
+	margin: 0 10%;
+}
+
 .container {
-	max-width: $container--width + ( $container--padding__desktop * 2 );
+	max-width: $container--width + ( $container--padding__desktop * 4 );
 }
 
 .container-sm {

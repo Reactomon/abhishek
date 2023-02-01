@@ -78,14 +78,18 @@ const Header = ({
     <header
       {...props}
       className={classes}
+      style={{
+        background: "#2e0927"
+      }}
     >
-      <div className="container">
+      <div className="header-container">
         <div className={
           classNames(
             'site-header-inner',
             bottomDivider && 'has-bottom-divider'
           )}>
           <Logo />
+
           {!hideNav &&
             <>
               <button
@@ -112,7 +116,13 @@ const Header = ({
                       navPosition && `header-nav-${navPosition}`
                     )}>
                     <li>
-                      <Link to="#0" onClick={closeMenu}>Documentation</Link>
+                      <Link to="#0" onClick={closeMenu} style={{ color: 'white' }}>Mutual Funds</Link>
+                    </li>
+                    <li>
+                      <Link to="#0" onClick={closeMenu} style={{ color: 'white' }}>Stocks</Link>
+                    </li>
+                    <li>
+                      <Link to="#0" onClick={closeMenu} style={{ color: 'white' }}>About US & Contact</Link>
                     </li>
                   </ul>
                   {!hideSignin &&
@@ -120,7 +130,10 @@ const Header = ({
                       className="list-reset header-nav-right"
                     >
                       <li>
-                        <Link to="#0" className="button button-primary button-wide-mobile button-sm" onClick={closeMenu}>Sign up</Link>
+                        <Link to="#0" className="button button-primary button-wide-mobile button-sm light-bg" onClick={closeMenu}>Register</Link>
+                      </li>
+                      <li>
+                        <Link to="#0" className="button button-primary button-wide-mobile button-sm light-bg" onClick={closeMenu}>Login</Link>
                       </li>
                     </ul>}
                 </div>
